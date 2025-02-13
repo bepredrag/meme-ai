@@ -1,6 +1,7 @@
 # 🤖Copy Trading Bot
 
 You can monitor target wallet and copy trade automatically using this bot.
+This bot works on all dexs.
 
 # 💬Contact Me
 
@@ -19,4 +20,16 @@ IS_JITO = true # true/false
 JITO_FEE = 0.0001
 
 TARGET_ADDRESS = # Your target wallet to copy trade
+
+## Examples
+
+
+
+https://github.com/user-attachments/assets/641191d0-0f14-4693-845b-7b89709a948f
+
+target: `https://solscan.io/tx/gEGTHyF1JH2GUYpML79m6rnzYpE3y2CJ3r4U2STa8himW53rzdCCAVkTdkLW9w7x3YE5pLw4vYa9qqWaLzKGrfp`
+bot: `https://solscan.io/tx/i8UKtsMbkfdz481MSD68Kawj3o8AkTyHLkjiJsgGfCZAtebUBnUCZ18TYkzCZxJLAkkrteU98sHxhiq3kwtL9rc`
+
+target: `https://solscan.io/tx/4bK6m2zvpGZ9fvu48HySxezMPsSqYHBqaatMajEjWA1CxQ7CrAKAszHVALC93qhr7VP2n6Ujsi1c4JLjmhxrjDZM`
+bot: `https://solscan.io/tx/5MEM9YmL8BGboq2eEdNLqnhbMKwWQ8cZKF6zcRonBuL42bkZi8RHBmftdk61APMZecN3T9MAJoFZVjaDM9AWcvCp`
 
