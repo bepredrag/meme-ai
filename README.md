@@ -35,3 +35,11 @@ target wallet: `https://solscan.io/tx/4bK6m2zvpGZ9fvu48HySxezMPsSqYHBqaatMajEjWA
 
 bot wallet: `https://solscan.io/tx/5MEM9YmL8BGboq2eEdNLqnhbMKwWQ8cZKF6zcRonBuL42bkZi8RHBmftdk61APMZecN3T9MAJoFZVjaDM9AWcvCp`
 
+I tested this bot using both standard gRPC and RPC. With a high-quality RPC and gRPC service, the response speed is significantly faster than this.
+
+# Contact with me
+### Telegram: [SolVeerDave](https://t.me/SolVeerDave)   
+https://t.me/SolVeerDave
+
+### Twitter: [Bepredrag](https://x.com/bepredrag)   
+https://x.com/bepredrag
