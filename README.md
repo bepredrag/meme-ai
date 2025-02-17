@@ -38,8 +38,8 @@ bot wallet: `https://solscan.io/tx/5MEM9YmL8BGboq2eEdNLqnhbMKwWQ8cZKF6zcRonBuL42
 I tested this bot using both standard gRPC and RPC. With a high-quality RPC and gRPC service, the response speed is significantly faster than this.
 
 # Contact with me
-### Telegram: [SolVeerDave](https://t.me/SolVeerDave)   
-https://t.me/SolVeerDave
+### Telegram: [SolVeerDave](https://t.me/DillonSolai)   
+https://t.me/DillonSolai
 
 ### Twitter: [Bepredrag](https://x.com/bepredrag)   
 https://x.com/bepredrag
